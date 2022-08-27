@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emanuel Nzinga Maimona</h1>
 <h3 align="center">I am a passionate Software Developer, who combines the useful with the pleasant, that is creativity and critical thinking with technical and programming skills to make history by not just pointing but fixing problems.</h3>
 
-<img align="right" alt="Me" widht="200" height="400"  src="https://emaimona.github.io/assets/img/f6.jpg">
+<img align="right" id="1" alt="Me" widht="350" style="border-radius: 200px;" height="350"  src="https://emaimona.github.io/assets/img/f6.jpg#av">
+img[src*="#av"] {
+  border-radius: 50%;
+  height: 30;
+}
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaimona&label=Profile%20views&color=0e75b6&style=flat" alt="emaimona" /> </p>
 
