@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Developer portfolio](https://emaimona.github.io)
 
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://emaimona.github.io](https://emaimona.github.io)
 
