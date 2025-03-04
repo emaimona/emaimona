@@ -1,6 +1,6 @@
 ![Master](https://emaimona.github.io/assets/img/cover.jpg)
 <h1 align="center">Hi 👋, I'm Emanuel Nzinga Maimona</h1>
-<h3 align="center">I am a passionate Software Developer, who loves to combine the useful with the pleasant, that is, creativity and critical thinking with technical and programming skills to make history by not just pointing but fixing problems.</h3>
+<h3 align="center">I am a passionate Software Engineer, who loves to combine the useful with the pleasant, that is, creativity and critical thinking with technical and programming skills to make history by not just pointing but fixing problems.</h3>
 
 <img align="right" id="1" alt="Me" widht="350" height="350"  src="https://emaimona.github.io/assets/img/f6_circ-2.png">
 
